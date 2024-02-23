@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+header{
+    background: rgba(187, 255, 0, 0.527) !important;
+}
+#unique{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 12px;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 5px;
+
+    
+}
+#unique:hover{
+    
+
+}
+#unique li, a{
+    list-style: none;
+    text-decoration: none !important;
+    color: black;
+}
+.WEB{
+    margin-top:8px ;
+    text-align: left;
+    font-weight: bolder;
+    color: blueviolet;
+    font-size: 22px;
+    text-align: center;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+
+}
+.wel{
+    text-align: center;
+    font-size: 28px;
+    color: coral;
+    margin-top: 12px;
+}
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 17px;
+}
+.box{
+    height: 420px;
+    width: 23%;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    
+}
+.box:hover{
+    border: 2px solid red;
+}
+.box3 h2{
+    color: coral;
+    text-align: center;
+    font-weight: 500;
+}
+.phone{
+    border: 1px solid black;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.phone img{
+    height: 230px;
+    width: 40vh;
+}
+.box3 p{
+    margin-left: 7px;
+    margin-right: 5px;
+}
+.box3 button{
+    margin-left: 220px;
+}
+
